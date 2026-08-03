@@ -34,6 +34,7 @@
     - [Somali](#somali)
     - [Vietnam](#vietnam)
     - [Ukrainian](#ukrainian)
+    - [Uzbek](#uzbek)
 
 
 
@@ -160,6 +161,7 @@
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
 * [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
+* [codewithsadee](https://www.youtube.com/c/codewithsadee)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -189,6 +191,10 @@
 * [Joshua Fluke](https://www.youtube.com/user/Tychos1)
 * [Tech Lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 * [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+* [Kalle Halden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+* [Python Programmer](https://www.youtube.com/user/consumerchampion)
+* [Andres Vidoza](https://www.youtube.com/channel/UCC_NjLEb2Sley94py4vSYTA)
+* [Tren Black](https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA)
 * [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw)
@@ -256,6 +262,7 @@
 * [Molly Rocket](https://www.youtube.com/user/handmadeheroarchive)
 * [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA)
 * [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+* [Randy](https://www.youtube.com/c/RandallThomas)
 
 
 ### Software Entertainment
@@ -553,6 +560,8 @@
 ## Spanish
 
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
+* [Gonzalo Pozzo](https://www.youtube.com/channel/UCCvaRcYdZCZBrBQVnsUBg5Q)
+* [Leonardo Galante](https://www.youtube.com/channel/UC-gFUpD0aKzMS5_uwbHSOrA)
 * [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
 * [Appdelante](https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
@@ -686,6 +695,7 @@
 * [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
 * [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
 * [코지 코더 Kossie Coder](https://www.youtube.com/channel/UCI4tTBupvhMX1aWDSm-HAXw)
+* [빵형의 개발도상국](https://www.youtube.com/c/%EB%B9%B5%ED%98%95%EC%9D%98%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD)
 
 
 
@@ -806,3 +816,14 @@
 ## Ukrainian
 ##### Informational
 * [Dima Maleev](https://www.youtube.com/c/SunnyDimKo/)
+## Uzbek
+* [Alitech](https://www.youtube.com/c/Alitechacademy)
+* [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
+* [Code Leader](https://www.youtube.com/c/CodeLeader)
+* [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
+* [Javohir Group](https://www.youtube.com/c/JavohirHakimov/playlists)
+* [Kadirov Dev](https://www.youtube.com/c/KadirovDev)
+* [Programmer UZ](https://www.youtube.com/c/ProgrammerUZ)
+* [Sardor Og'a](https://www.youtube.com/c/SardorOga)
+* [Sariq dev](https://www.youtube.com/c/Sariqdev)
+* [Хашимов Ахмаджон](https://www.youtube.com/channel/UCfYgHi7upcHSbGERx8qp-ww)
